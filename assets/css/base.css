@@ -116,7 +116,7 @@ html {
     cursor: pointer;
     color: var(--text-color);
     background-color: white;
-    display: flex;
+    display: inline-flex;
     align-items: center;
     justify-content: center;
     line-height: 1.6rem;
